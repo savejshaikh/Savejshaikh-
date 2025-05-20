@@ -40,9 +40,7 @@ Passionate about helping startups save time and build faster with clean, scalabl
 - Frontend with *Jinja2 templates*
 - Deployed on *Render, managed via **Git*
 
-![Flask Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR2eGN5bTU4ZWNjaXB2ZWVwYjVjaWtnZnMyaWlrZXJjZTBwbzFkMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRQBXSCnEFJIuxktnw/giphy.gif)
-
-*GitHub:* Coming Soon
+![Flask Demo](https://github.com/savejshaikh/Savejshaikh-/blob/c7002640ea5281680d9850f8070f080fb46f68da/Flask.jpg)
 
 ---
 
