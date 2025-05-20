@@ -64,7 +64,7 @@ Passionate about helping startups save time and build faster with clean, scalabl
 - Sends emails with formatted summaries & optional attachments
 - Ideal for automating daily business reporting
 
-![CSV Email Bot](https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif)
+![CSV Email Bot](https://github.com/savejshaikh/Savejshaikh-/blob/14350396d5391ecc670ac95ac74eafb144a8275f/CSV%20processor.jpg)
 
 *GitHub:* Coming Soon
 
