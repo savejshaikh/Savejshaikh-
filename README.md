@@ -51,7 +51,7 @@ Passionate about helping startups save time and build faster with clean, scalabl
 - Sends daily emails using *smtplib*
 - Automated via *cron* or the *schedule* module
 
-![Weather Icon](https://img.icons8.com/clouds/100/000000/cloud.png)
+![Weather Icon](https://github.com/savejshaikh/Savejshaikh-/blob/c358bb1b360e6dde60520cb174534d6147bb4032/weather%20API.jpg)
 
 *GitHub:* Coming Soon
 
